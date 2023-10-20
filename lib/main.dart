@@ -9,6 +9,14 @@ void main(List<String> args) {
     phone: '0115436219',
     address: 'Banha',
   );
+   Student mo = Student(
+    name: 'mohamed',
+    age: 28,
+    faculty: 'IT',
+    email: 'mo280@gmail.com',
+    phone: '011551619',
+    address: 'Banha',
+  );
   Student ziad = Student(
     name: 'Ziad',
     age: 22,
